@@ -7,7 +7,7 @@
         {
             "name": "test-plugin",
             "source": "./test-plugin",
-            "description": "My first test plugin trying it out locally"
+            "description": "Test Plugin hosted on Github"
         }
     ]
 }
