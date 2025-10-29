@@ -1,0 +1,13 @@
+{
+    "name": "Vilosia-Marketplace",
+    "owner": {
+        "name": "Vilosia - Florian Aurich"
+    },
+    "plugins": [
+        {
+            "name": "test-plugin",
+            "source": "./test-plugin",
+            "description": "My first test plugin trying it out locally"
+        }
+    ]
+}
