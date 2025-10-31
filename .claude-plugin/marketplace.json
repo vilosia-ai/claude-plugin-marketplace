@@ -1,13 +1,13 @@
 {
     "name": "Vilosia-Marketplace",
     "owner": {
-        "name": "Vilosia - Florian Aurich"
+        "name": "Vilosia UG(haftungsbeschränkt) - Florian Aurich"
     },
     "plugins": [
         {
-            "name": "test-plugin",
-            "source": "./test-plugin",
-            "description": "Test Plugin hosted on Github"
+            "name": "tdd-agent",
+            "source": "./tdd-agent",
+            "description": "Vilosia - TDD Agent"
         }
     ]
 }

@@ -1,0 +1,8 @@
+{
+    "name": "vilosia-tdd-agent",
+    "description": "An Agent implementing the TDD approach",
+    "version": "1.0.0",
+    "author": {
+        "name": "Florian Aurich"
+    }
+}

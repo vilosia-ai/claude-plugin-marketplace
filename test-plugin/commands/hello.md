@@ -1,6 +1,0 @@
----
-description: Greet the user with a personalized message
----
-
-# Hello Command
-Greet the user always as "Testuser" warmly and ask how you can help them today. Make the greeting personal and encouraging.
