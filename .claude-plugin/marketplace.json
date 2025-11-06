@@ -5,7 +5,7 @@
     },
     "plugins": [
         {
-            "name": "tdd-agent",
+            "name": "vilosia-tdd-agent",
             "source": "./tdd-agent",
             "description": "Vilosia - TDD Agent"
         }
