@@ -69,3 +69,4 @@ This project is licensed under the MIT License.
 
   * **Website:** [https://www.tdd-agent.vilosia.com](https://www.tdd-agent.vilosia.com)
   * **Workshops:** Contact us on LinkedIn for a workshop which includes onboarding, agent adoption to your workflow, dev environment and architecture.
+  * **Do you have Questions or want to give Feedback?** Feel free to jump into our Discord server. https://discord.gg/nHwbpKgt
