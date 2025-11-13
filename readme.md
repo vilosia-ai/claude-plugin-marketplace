@@ -29,29 +29,20 @@ The Vilosia TDD Agent is a ClaudeCode-based Software Development Tool for the co
 
 ## Usage
 
+  * `/vilosia-tdd-agent:init-agent
   * `/init` - Starts the code & repo scan.
-  * `/storybreakdown/"userstory"` - Automatic decomposition into implementable features.
-  * `/createtestcases/"feature_name"` - Creates `feature_name-test.md` with JSON Input/Output and test descriptions.
-  * `/generate_spec/"feature_name"` - Creates a detailed, technical implementation guide that serves as the basis for automated code generation.
-  * `/execute_spec/"feature_name"` - Initiates the self-regulating red-green-refactor cycle.
+  * `/vilosia-tdd-agent:story-breakdown userstory.md` - Automatic decomposition into implementable features.
+  * `/vilosia-tdd-agent:create-testcases feature.md` - Creates `feature_name-test.md` with JSON Input/Output and test descriptions.
+  * `/vilosia-tdd-agent:generate-spec feature.md` - Creates a detailed, technical implementation guide that serves as the basis for automated code generation.
+  * `/vilosia-tdd-agent:execute-spec feature.md` - Initiates the self-regulating red-green-refactor cycle.
 
 -----
 
 ## Example Workflow
 
-See the video on our Landing Page: [https://www.tdd-agent.vilosia.com](https://www.tdd-agent.vilosia.com)
+See the video on our Landing Page: https://www.tdd-agent.vilosia.com
 
-A typical workflow looks like this:
 
-```
--> /init
-  ->/storybreakdown/"userstory"
-      -> /createtestcases/"feature_name"
-          -> /generate_spec/"feature_name"
-              -> /execute_spec/"feature_name"
-```
-
------
 
 ## Requirements
 
